@@ -27,7 +27,7 @@ Requirements
 
 ---
 
- Running the Python Version
+ Running the Python and Go Versions
 
  
 
