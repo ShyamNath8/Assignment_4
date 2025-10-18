@@ -32,7 +32,8 @@ Requirements
  
 
  Run interactively:
- On VS Code run the following files
-python schedule.py
-schedule.go
+- On VS Code run the following files
+  
+- python schedule.py
+- schedule.go
 
